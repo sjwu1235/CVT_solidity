@@ -3,5 +3,5 @@
 # Description
 Contains a simple solidity contract that records vaccinations.
 
-#Installation
+# Installation
 Requires ganache for deployment and installation of truffle
